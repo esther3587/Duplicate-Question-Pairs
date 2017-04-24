@@ -7,7 +7,9 @@ Quora is a popular website where people can ask and answer all kinds of question
 In thi project, I am trying to develop an algorithm to detect duplicate questions on Quora.
 
 ## Required Libary
--numpy
--pandas
--wordcloud
--sklearn
+ - numpy
+ - pandas
+ - wordcloud
+ - sklearn
+ - matplotlib
+ - os
