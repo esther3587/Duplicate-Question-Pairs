@@ -15,6 +15,7 @@ In thi project, I have developed a supervised learning algorithm to detect dupli
  - os
  - collections
  - xgboost
+ - graphviz
 
  ## Running
  All the run scripts are in capstone.ipynb file.
